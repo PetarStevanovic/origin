@@ -1,3 +1,4 @@
 print("Hello")
 print("Zdravo")
-print("Нова функционалност1")
+print("Нова функционалност: v1")
+
